@@ -7,6 +7,12 @@ This is a modified version of the code originally found [here](http://elk.inform
 
 All code is GPLv2 licensed unless explicitly stated otherwise.
 
+Modifications in fork 
+---------------------
+ * Python 3 only
+ * Added PRs #57, #63, #66 
+ * Updated setup.py and conda recipe
+
 Usage
 -----
 
